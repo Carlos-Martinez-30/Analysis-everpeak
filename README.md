@@ -11,7 +11,7 @@ El datase "everpeak_retail" incluye 2,000 órdenes de clientes con valores falta
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/drive/164-wg8Ddh11xST5nxDRDwu2lyBVdKaG6#scrollTo=aee99264-2f2a-46d5-aaf3-571f47a9e1e8)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/drive/164-wg8Ddh11xST5nxDRDwu2lyBVdKaG6#scrollTo=aee99264-2f2a-46d5-aaf3-571f47a9e1e8)](https://github.com/Carlos-Martinez-30/Analysis-everpeak/tree/main)
 
 O:
 
